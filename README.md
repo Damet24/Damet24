@@ -1,6 +1,5 @@
-# 👋 Hola, soy Damet
+# 👋 Hi there, I'm Damet
 
-Desarrollador enfocado en herramientas de terminal, automatización y sistemas Linux.
+Tech enthusiast and aspiring hacker.
 
-Me gusta construir herramientas simples, rápidas y útiles que viven en la consola.
-
+I enjoy crafting simple and powerful tools that feel at home in the terminal.
